@@ -2,10 +2,15 @@ Hi 👋 My name is Mylk
 =====================
 
 Dreaming of becoming a pro skid
+
 DTC = UNDETECTED
+
 RWX & ioctl drivers on top
+
 Exit Scam? Nah, advanced money making
+
 mov rax jmp rax
+
 
 * 🌍  I'm based in Hawaii
 * 🧠  I'm learning how to be UD as a paster
